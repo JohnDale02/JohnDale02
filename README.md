@@ -1,5 +1,5 @@
 ### John Dale
--  💻 Current __System Test Engineer Intern__ @ iRobot
+-  💻 Current __Computer Engineering Intern__ @ MITRE
 - :pen: Junior __Computer Engineering Student @ UMass Amherst__
 - 🌱 Strengthening my __Python__, __C++__, and __C__ programming skills
 - :runner: Ask me about __weightlifting__, __skiing__, or __hockey__ 
