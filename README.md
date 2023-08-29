@@ -7,9 +7,8 @@
 - ⚡ __Fun fact:__ I have a twin brother!
 
 ### Connect with me:
-[<img height="32" width="32" alt="Python" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg"/>][linkedin]
 [<img height="32" width="32" alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" />][gmail]
-[<img height="72" width="72" alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/githubpages.svg" />][website]
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 [linkedin]: https://www.linkedin.com/in/johndale02
 [gmail]: mailto:johnkdale02@gmail.com
