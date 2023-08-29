@@ -10,5 +10,5 @@
 [<img height="32" width="32" alt="Python" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg"/>][linkedin]
 [<img height="32" width="32" alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" />][gmail]
 
-[linkedin]: www.linkedin.com/in/johndale02
-[gmail]: johnkdale02@gmail.com
+[linkedin]: https://www.linkedin.com/in/johndale02
+[gmail]: mailto:johnkdale02@gmail.com
