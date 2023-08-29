@@ -7,7 +7,7 @@
 - ⚡ __Fun fact:__ I have a twin brother!
 
 ### Connect with me:
-[<img height="32" width="32" alt="Gmail" src="https://mailmeteor.com/logos/assets/SVG/Gmail_Logo.svg"/>][gmail]
+[<img height="64" width="64" alt="Gmail" src="https://mailmeteor.com/logos/assets/SVG/Gmail_Logo.svg"/>][gmail]
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 [linkedin]: https://www.linkedin.com/in/johndale02
