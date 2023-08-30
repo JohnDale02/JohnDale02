@@ -13,4 +13,4 @@
 
 [linkedin]: https://www.linkedin.com/in/johndale02
 [gmail]: mailto:johnkdale02@gmail.com
-[website]: https://github.com/johndale02
+[website]: https://johndale02.github.io/
