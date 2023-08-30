@@ -8,8 +8,8 @@
 
 ### Connect with me:
 [<img height="48" width="48" alt="Gmail" src="https://mailmeteor.com/logos/assets/SVG/Gmail_Logo.svg"/>][gmail]
-[<img height="48" width="48" alt="Gmail" src="https://www.svgrepo.com/download/267862/portfolio.svg"/>][website]
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[<img height="48" width="48" alt="Gmail" src="https://www.svgrepo.com/download/267862/portfolio.svg"/>][website]
 
 [linkedin]: https://www.linkedin.com/in/johndale02
 [gmail]: mailto:johnkdale02@gmail.com
