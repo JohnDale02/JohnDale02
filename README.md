@@ -1,5 +1,5 @@
 ### John Dale
-- :pen: Junior __Computer Engineering Student @ UMass Amherst__
+- :pen: Senior __Computer Engineering Student @ UMass Amherst__
 -  💻 __Computer Engineering Intern__ @ MITRE
 -  :robot: Past __Systems Test Intern__ @ iRobot 
 - 🌱 Strengthening my __Python__, __C++__, and __C__ programming skills
