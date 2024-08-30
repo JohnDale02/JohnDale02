@@ -1,7 +1,7 @@
 ### John Dale
 - :pen: Senior __Computer Engineering Student @ UMass Amherst__
--  💻 __Computer Engineering Intern__ @ MITRE
--  :robot: Past __Systems Test Intern__ @ iRobot 
+-  💻 __Wireless Connectivity Intern__ @ Tesla
+-  :robot: Past Intern @ iRobot, MITRE
 - 🌱 Strengthening my __Python__, __C++__, and __C__ programming skills
 - :runner: Ask me about __weightlifting__, __skiing__, or __hockey__ 
 - ⚡ __Fun fact:__ I have a twin brother!
